@@ -1,0 +1,2 @@
+﻿The Domain project contains the business logic and entities (POCO - Plain old CLR Objects).
+Please add all information about the businness and the structure we are tring to archive
